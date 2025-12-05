@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Fridmak
 
-- FIIT student (ft-201)
+- FIIT student (ft-301)
