@@ -48,6 +48,7 @@ JWT, PostgreSQL, EF Core, SignalR-уведомления, кэш ответов 
 
 ## Контакты
 
+- Сайт: [fridmak.github.io](https://fridmak.github.io)
 - Telegram: [@MrFridmak](https://t.me/MrFridmak)
 - Email: androlimp22@gmail.com
 - GitHub: [github.com/Fridmak](https://github.com/Fridmak)
