@@ -2,6 +2,9 @@
 
 .NET backend-разработчик. Екатеринбург, открыт к удалёнке и гибриду.
 
+Пишу backend на .NET: от микросервисов в банковском low-code до L4-прокси на Go.
+Люблю разбираться, как всё устроено под капотом — от `IConfiguration` до `splice(2)`.
+
 Год коммерческой разработки в Artsofte: микросервисы на ASP.NET Core для
 low-code-конструктора банковских приложений — PostgreSQL, Redis, RabbitMQ,
 Kubernetes, Grafana. После — командный Syncly API на .NET 9 и дипломный
